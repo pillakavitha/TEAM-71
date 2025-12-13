@@ -1,0 +1,8 @@
+{
+  "drug": "Paracetamol",
+  "indications": "Used to treat mild to moderate pain and fever.",
+  "dosage": "500 mg every 6 to 8 hours. Maximum 4000 mg per day.",
+  "warnings": "Avoid alcohol. Liver damage may occur with overdose.",
+  "food_interactions": "Can be taken with food. Avoid alcohol.",
+  "contraindications": "Severe liver disease."
+}
